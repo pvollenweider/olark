@@ -62,8 +62,8 @@
     <description>This module allow to integrate Olark on a Digital Experience Manager website.</description>
 
     <scm>
-        <connection>scm:dummy:uri</connection>
-        <developerConnection>scm:dummy:uri</developerConnection>
+        <connection>scm:git:git@github.com:pvollenweider/olark.git</connection>
+        <developerConnection>scm:git:git@github.com:pvollenweider/olark.git</developerConnection>
     </scm>
 
     <repositories>
