@@ -1,0 +1,6 @@
+<jmix = 'http://www.jahia.org/jahia/mix/1.0'>
+
+[jmix:olark] mixin
+ extends = jnt:virtualsite
+ itemtype = options
+ - siteId (string) = 'xxxx-xxx-xx-xxxx'
